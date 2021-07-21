@@ -1,0 +1,13 @@
+.carosel-bg{
+    background-color:#fceae8;
+}
+.categories img{
+    width:100px;
+}
+.panda-tbn-buy-now{
+    color:white;
+    border:none;
+    border-radius:8px;
+    padding:9px 25px;
+    background-image:linear-gradient(to bottom, #FF589B 0%,#FF4b92 100%);
+}
